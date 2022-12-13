@@ -9,6 +9,8 @@ This is a repo with small sketches and side projects.
 - ⚔️ Strengths: Design systems, front end, UX and/or DX, and know some CI/CD. Poker face. Appears organized.
 - ⬇️ Weaknesses: API design and backend. I can be verbose, perfectionistic and pedantic. Extremely uncompetitive at board games.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usrrname&layout=compact)
+
 ### Most Viewed Blogposts
 - ["Removing Accidentally Committed Files From Remote History"](https://dev.to/jenc/removing-accidentally-committed-files-from-remote-history-3acj)
 - ["Git Rebase for Preventing Merge Commits"](https://dev.to/jenc/git-rebase-for-preventing-merge-commits-2len)
