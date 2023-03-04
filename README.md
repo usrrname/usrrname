@@ -18,8 +18,10 @@ This is a repo with small sketches and side projects.
 - ["Visual Regression Testing with Chromatic"](https://dev.to/jenc/storybook-and-chromatic-for-visual-regression-testing-37lg)
 - ["Unit Testing Components in Storybook"](https://dev.to/jenc/unit-testing-components-in-storybook-oc7)
 
+### Topically Odd or Amusing 
+
 ### Talks
-- 🆕 ["Break into Design Systems Engineering"](https://www.youtube.com/watch?v=oxwDAMQGa0g), Storybook Storytime, 2022
+- ["Break into Design Systems Engineering"](https://www.youtube.com/watch?v=oxwDAMQGa0g), Storybook Storytime, 2022
 - ["Loading Custom Fonts"](https://www.youtube.com/watch?v=qiIilX4bLgY) for Toronto JS Lightning Talks: Coding for Design Systems, 2021
 - ["OWASP Top 10: Injection Attacks (Preventing them in Angular)"](https://drive.google.com/file/d/1dbVTDJtArPDh54OduRS4GJLPXlMXXX-t/view), 2020
 - ["Design Sprints and You"](https://drive.google.com/file/d/1PYUTchiMVyPdRWXzrI9Yu3GaSICAaxkj/view), 2020
