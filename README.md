@@ -18,7 +18,9 @@ This is a repo with small sketches and side projects.
 - ["Visual Regression Testing with Chromatic"](https://dev.to/jenc/storybook-and-chromatic-for-visual-regression-testing-37lg)
 - ["Unit Testing Components in Storybook"](https://dev.to/jenc/unit-testing-components-in-storybook-oc7)
 
-### Topically Odd or Amusing 
+### Topically Odd or Amusing
+
+- ["Closing, Cloning, or Disabling the Shadow DOM"](https://dev.to/jenc/closing-cloning-or-disabling-the-shadow-dom-2m00)
 
 ### Talks
 - ["Break into Design Systems Engineering"](https://www.youtube.com/watch?v=oxwDAMQGa0g), Storybook Storytime, 2022
