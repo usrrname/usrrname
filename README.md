@@ -12,15 +12,15 @@ This is a repo with small sketches and side projects.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usrrname&layout=compact)
 
 ### Most Viewed Blogposts
-- ["Removing Accidentally Committed Files From Remote History"](https://dev.to/jenc/removing-accidentally-committed-files-from-remote-history-3acj)
-- ["Git Rebase for Preventing Merge Commits"](https://dev.to/jenc/git-rebase-for-preventing-merge-commits-2len)
-- ["First Impressions: learning Angular after React/Redux](https://dev.to/jenc/how-angular-differs-from-react-redux-in-2019-36ef)
-- ["Visual Regression Testing with Chromatic"](https://dev.to/jenc/storybook-and-chromatic-for-visual-regression-testing-37lg)
-- ["Unit Testing Components in Storybook"](https://dev.to/jenc/unit-testing-components-in-storybook-oc7)
+- ["Removing Accidentally Committed Files From Remote History"](https://www.jenchan.biz/blog/git-rebase-for-preventing-merge-commits)
+- ["Git Rebase for Preventing Merge Commits"](https://www.jenchan.biz/blog/git-rebase-for-preventing-merge-commits)
+- ["First Impressions: learning Angular after React/Redux](https://www.jenchan.biz/blog/first-impressions-learning-angular-after-react-redux)
+- ["Visual Regression Testing with Chromatic"](https://www.jenchan.biz/blog/storybook-and-chromatic-for-visual-regression-testing)
+- ["Unit Testing Components in Storybook"](https://www.jenchan.biz/blog/unit-testing-components-in-storybook)
 
 ### Topically Odd or Amusing
 
-- ["Closing, Cloning, or Disabling the Shadow DOM"](https://dev.to/jenc/closing-cloning-or-disabling-the-shadow-dom-2m00)
+- ["Closing, Cloning, or Disabling the Shadow DOM"](https://www.jenchan.biz/blog/closing-cloning-or-disabling-shadow-DOM)
 
 ### Talks
 - ["Break into Design Systems Engineering"](https://www.youtube.com/watch?v=oxwDAMQGa0g), Storybook Storytime, 2022
