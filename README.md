@@ -13,14 +13,13 @@ This is a repo with small sketches and side projects.
 
 ### Most Viewed Blogposts
 - ["Removing Accidentally Committed Files From Remote History"](https://www.jenchan.biz/blog/git-rebase-for-preventing-merge-commits)
-- ["Git Rebase for Preventing Merge Commits"](https://www.jenchan.biz/blog/git-rebase-for-preventing-merge-commits)
-- ["First Impressions: learning Angular after React/Redux](https://www.jenchan.biz/blog/first-impressions-learning-angular-after-react-redux)
 - ["Visual Regression Testing with Chromatic"](https://www.jenchan.biz/blog/storybook-and-chromatic-for-visual-regression-testing)
 - ["Unit Testing Components in Storybook"](https://www.jenchan.biz/blog/unit-testing-components-in-storybook)
 
 ### Topically Odd or Amusing
 
 - ["Closing, Cloning, or Disabling the Shadow DOM"](https://www.jenchan.biz/blog/closing-cloning-or-disabling-shadow-DOM)
+- ["Dissecting the hell that is Jest setup with ESM and Typescript"](https://www.jenchan.biz/blog/dissecting-the-hell-jest-setup-esm-typescript-setup)
 
 ### Talks
 - ["Break into Design Systems Engineering"](https://www.youtube.com/watch?v=oxwDAMQGa0g), Storybook Storytime, 2022
