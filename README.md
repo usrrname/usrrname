@@ -19,7 +19,6 @@ This is a repo with small sketches and side projects.
 - ["Design Sprints and You"](https://drive.google.com/file/d/1PYUTchiMVyPdRWXzrI9Yu3GaSICAaxkj/view), 2020
 
 ### Links
-- [Toronto JS](https://torontojs.com)
 - [Dev.to Blog](https://dev.to/jenc)
 - [Codepen](https://codepen.io/usrrname)
 - [LinkedIn](https://www.linkedin.com/in/jennifer7chan/)
