@@ -4,13 +4,6 @@ You have reached the README of a user called `@usrrname`.
 
 This is a repo with small sketches and side projects.
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=6406037" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=6406037&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @usrrname" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=6406037&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
 ### Most Viewed Blogposts
 - ["Removing Accidentally Committed Files From Remote History"](https://www.jenchan.biz/blog/git-rebase-for-preventing-merge-commits)
 - ["Visual Regression Testing with Chromatic"](https://www.jenchan.biz/blog/storybook-and-chromatic-for-visual-regression-testing)
@@ -28,3 +21,11 @@ This is a repo with small sketches and side projects.
 - [Codepen](https://codepen.io/usrrname)
 - [LinkedIn](https://www.linkedin.com/in/jennifer7chan/)
 - [12 Dev Types Breakdown](https://www.12types.dev/quiz/results/assassin:75-telepath:40-tank:40-hunter:40-wizard:33-ranger:100-healer:0-mechanic:66-ghost:0-shapeshifter:66-sage:33-rogue:60--Jen#.Yc3YxUVX37h.twitter)
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=6406037" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=6406037&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @usrrname" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=6406037&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
