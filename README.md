@@ -5,9 +5,8 @@ You have reached the README of a user called `@usrrname`.
 This is a repo with small sketches and side projects.
 
 ### Most Viewed Blogposts
-- ["Removing Accidentally Committed Files From Remote History"](https://www.jenchan.biz/blog/git-rebase-for-preventing-merge-commits)
-- ["Visual Regression Testing with Chromatic"](https://www.jenchan.biz/blog/storybook-and-chromatic-for-visual-regression-testing)
-- ["Unit Testing Components in Storybook"](https://www.jenchan.biz/blog/unit-testing-components-in-storybook)
+- ["Dissecting the hell that is Jest setup with ESM and Typescript](https://jenchan.biz/blog/dissecting-the-hell-jest-setup-esm-typescript-setup)
+- ["Removing Accidentally Committed Files From Remote History"](https://jenchan.biz/blog/removing-accidentally-committed-files-from-remote-history)
 
 ### Talks
 - ["Stop resizing your browser: improve testing for responsiveness"](https://www.jenchan.biz/blog/stop-resizing-your-browser-improve-responsive-testing), 2024
