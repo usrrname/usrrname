@@ -28,3 +28,6 @@ This is a repo with small sketches and side projects.
     <img alt="Dashboard stats of @usrrname" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=6406037&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+
+
+<img src="https://algora.io/og/user/usrrname" />
