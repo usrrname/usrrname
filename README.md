@@ -1,9 +1,8 @@
-### Welcome to my Github Profile!!!11!!1
+███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ⊂(◉ ‿ ◉)つ 
 
-![Flame text gif that reads, "The Github Profile Of usrrname"](https://github.com/user-attachments/assets/b92953b8-9517-49c3-8566-d85d1debe57f)
+![Flame text gif with text: "The Github Profile Of usrrname"](https://github.com/user-attachments/assets/b92953b8-9517-49c3-8566-d85d1debe57f)
 
-
-This is a repo with small sketches and side projects.
+Hello, this is a repo with small sketches and side projects.
 
 ### Most Viewed Blogposts
 - ["Dissecting the hell that is Jest setup with ESM and Typescript](https://jenchan.biz/blog/dissecting-the-hell-jest-setup-esm-typescript-setup)
