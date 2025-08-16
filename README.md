@@ -1,6 +1,7 @@
 ### Welcome to my Github Profile!!!11!!1
 
-You have reached the README of a user called `@usrrname`.
+![Flame text gif that reads, "The Github Profile Of usrrname"](https://github.com/user-attachments/assets/b92953b8-9517-49c3-8566-d85d1debe57f)
+
 
 This is a repo with small sketches and side projects.
 
