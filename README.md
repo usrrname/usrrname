@@ -21,6 +21,7 @@ Hello, this is a repo with small sketches and side projects.
 - [LinkedIn](https://www.linkedin.com/in/jennifer7chan/)
 - [12 Dev Types Breakdown](https://www.12types.dev/quiz/results/assassin:75-telepath:40-tank:40-hunter:40-wizard:33-ranger:100-healer:0-mechanic:66-ghost:0-shapeshifter:66-sage:33-rogue:60--Jen#.Yc3YxUVX37h.twitter)
 
+<img src="https://algora.io/og/user/usrrname" alt="Algora profile for usrrname"/>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=6406037" target="_blank" style="display: block" align="center">
   <picture>
@@ -29,5 +30,3 @@ Hello, this is a repo with small sketches and side projects.
   </picture>
 </a>
 
-
-<img src="https://algora.io/og/user/usrrname" />
