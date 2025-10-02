@@ -30,3 +30,4 @@ Hello, this is a repo with small sketches and side projects.
   </picture>
 </a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F722&vCenter=true&width=435&lines=Developer%2C+develop+thyself)](https://git.io/typing-svg)
